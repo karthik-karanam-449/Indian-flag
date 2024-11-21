@@ -1,0 +1,29 @@
+.flag{
+    height: 600px;
+    width: 1338px;
+    border: 2px solid;
+    background-color: white;
+    
+}
+.box1{
+    height:200px ;
+    width: 100%;
+    background-color: #ff9933;
+}
+.box2{
+    height:200px ;
+    width: 100%;
+    background-color: white;
+}
+.box3{
+    height:200px ;
+    width: 100%;
+    background-color: green;
+}
+
+/* .red{ 
+    color: #ff9933;
+}
+.blue{
+    color: blue;
+} */
